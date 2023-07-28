@@ -53,6 +53,6 @@
         }
     ],
     "url": "https://github.com/jgnoel86/pf1-mighty-morphin-mod",
-    "manifest": "https://github.com/jgnoel86/pf1-mighty-morphin-mod/releases/download/releases/0.5.1/module.json",
-    "download": "https://github.com/jgnoel86/pf1-mighty-morphin-mod/releases/download/releases/0.5.1/pf1-mighty-morphin-mod.zip"
+    "manifest": "https://github.com/jgnoel86/pf1-mighty-morphin-mod/releases/download/0.5.1/module.json",
+    "download": "https://github.com/jgnoel86/pf1-mighty-morphin-mod/releases/download/0.5.1/pf1-mighty-morphin-mod.zip"
 }
